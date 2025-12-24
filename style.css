@@ -53,7 +53,7 @@ div.img {
 
 div#i1{
     background-image: url(imagens/background001.jpg);
-    background-position: left center;
+    background-position: right center;
     
 }
 
@@ -66,7 +66,7 @@ div > p {
 
 div#i2{
     background-image: url(imagens/background002.jpg);
-    background-position: left center;
+    background-position: right center;
 }
 
 footer {
